@@ -1,10 +1,14 @@
-- 👋 Hi, I’m @ClexsyV "Viljam Vänskä"
-- 👀 I’m interested in Gym and Coding!
-- 📫 How to reach me: vili123.vanska@gmail.com
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: ...
+# Welcome to my profile
+...
+TODO: Write more text...
 
-<!---
-ClexsyV/ClexsyV is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+## 📫 Contact Me
+
+> Feel free to contact me and/or connect with me
+
+- 📧 Email: [vili123.vanska@gmail.com]  
+- 🔗 LinkedIn: [[Viljam Vänskä](https://fi.linkedin.com/in/viljam-v%C3%A4nsk%C3%A4-b572a2352)]
+
+---
