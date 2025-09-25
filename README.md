@@ -9,6 +9,6 @@ TODO: Write more text...
 > Feel free to contact me and/or connect with me
 
 - 📧 Email: [vili123.vanska@gmail.com]  
-- 🔗 LinkedIn: [[Viljam Vänskä](https://fi.linkedin.com/in/viljam-v%C3%A4nsk%C3%A4-b572a2352)]
+- 🔗 LinkedIn: [https://fi.linkedin.com/in/viljam-v%C3%A4nsk%C3%A4-b572a2352]
 
 ---
